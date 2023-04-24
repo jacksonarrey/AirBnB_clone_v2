@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 from Flask import Flask
 app = Flask(__name__)
-@app router('/'. strict_slashes=False
+@app.router('/'. strict_slashes=False
 def hello():
 	return 'Hello HBNB'
 if __name__ == "__main__:
