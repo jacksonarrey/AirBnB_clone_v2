@@ -1,0 +1,3 @@
+trict_slashes=False
+    def hbnb():
+        return 'Hello HBNB
